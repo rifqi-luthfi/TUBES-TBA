@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574461945 source:d:\kuliah\tingkat 2\teori bahasa automata\ttba\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
+1574502740 source:d:\tba\ttba\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
